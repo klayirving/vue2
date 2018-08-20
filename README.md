@@ -1,7 +1,7 @@
 # vuedemo01
 
 
-vue的demo,饿了么的一个经典界面案例，我用的是2.0，把better-scroll换成了vue-scroll,因为我发现我使用better-scroll,在界面首次进入页面的时候，滑动不了，就换成了vue-scroll.....界面简化了，有的功能太繁琐就。。。另外购物车，商品详情没写。。。。
+vue的demo,饿了么的一个经典界面案例，我用的是2.0，把better-scroll换成了vue-scroll,因为我使用better-scroll,在界面首次进入页面的时候，会发生滑动不了的现象，所以在商家和评论页面就换成了vue-scroll.....界面简化了，有的功能太繁琐就。。。另外购物车，商品详情没写。。。。
 1.![image](https://github.com/klayirving/vue2/blob/master/1.png)
 2.![image](https://github.com/klayirving/vue2/blob/master/2.png)
 3.![image](https://github.com/klayirving/vue2/blob/master/3.png)
